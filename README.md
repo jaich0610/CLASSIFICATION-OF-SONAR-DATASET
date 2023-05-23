@@ -1,2 +1,1 @@
-# CLASSIFICATION-OF-SONAR-DATASET
-CLASSIFICATION OF SONAR DATASET USING DECISION TREE CLASSIFIER IN R
+## In this case study, we will be able to build decision tree models using the tree and rpart libraries in R. In addition, we will evaluate the model’s performance and learn how to save the trained model on the local system. The data reports the patterns obtained by bouncing sonar signals at various angles and under various conditions.  
